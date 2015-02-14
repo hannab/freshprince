@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  font-family: Arial;
+  text-align: center;
+  color:white;
+}
+
+
+h1 {
+  color:red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul p {
+  text-decoration: underline;
+}
+
+a {
+  color:red;
+}
+
+a:hover {
+  color:white;
+}
